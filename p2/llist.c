@@ -106,7 +106,6 @@ void deleteList(Link head){
     }
     free(head);
     head = NULL; 
-
 }
 
 /** 
